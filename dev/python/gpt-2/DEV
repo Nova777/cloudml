@@ -1,0 +1,13 @@
+
+python ./trainer/task.py
+
+gs://dataseolabs/117M
+
+
+1
+    roxygen2::roxygenise(), or
+    devtools::document(), if you’re using devtools, or
+    Ctrl + Shift + D, if you’re using RStudio.
+
+2
+    install & restart : CTRL + SHIFT + B

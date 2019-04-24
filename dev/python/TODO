@@ -1,0 +1,18 @@
+# Doc
+# https://github.com/GoogleCloudPlatform/tensorflow-without-a-phd
+# https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist/#3
+
+# Source code
+# https://github.com/nshepperd/gpt-2
+
+# TODO : copy into /runs
+# TODO : add setup.py > OK
+
+# Build
+1
+    roxygen2::roxygenise(), or
+    devtools::document(), if you’re using devtools, or
+    Ctrl + Shift + D, if you’re using RStudio.
+
+2
+    install & restart : CTRL + SHIFT + B
